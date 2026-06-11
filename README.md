@@ -96,6 +96,9 @@ Durante a análise do ambiente foram identificados os seguintes problemas:
 * Documentação do projeto
 
 ---
+POSTGRES_USER=admin
+POSTGRES_PASSWORD=admin123
+POSTGRES_DB=quickorder
 
 ## Autor
 
